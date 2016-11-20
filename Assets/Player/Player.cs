@@ -6,7 +6,7 @@ public class Player : MonoBehaviour {
     public int food = 0;
     public int oxygen = 0;
     public int scrap = 0;
-    public List<string> inventory = new List<string>();
+    public List<DiscoveryCard> inventory = new List<DiscoveryCard>();
 
     public int[] location = new int[] { 0, 0 };
 

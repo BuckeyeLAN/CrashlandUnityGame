@@ -6,7 +6,7 @@ public class Ship : MonoBehaviour {
     public int food = 0;
     public int oxygen = 0;
     public int scrap = 0;
-    public List<string> inventory = new List<string>();
+    public List<DiscoveryCard> inventory = new List<DiscoveryCard>();
     public int coreParts = 0;
     public bool teleporterAssembled = false;
     public bool aiCoreAssembled = false;
