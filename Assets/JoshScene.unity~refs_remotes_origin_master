@@ -90,7 +90,6 @@ NavMeshSettings:
     cellSize: 0.16666667
     manualCellSize: 0
   m_NavMeshData: {fileID: 0}
-<<<<<<< HEAD:Assets/JoshScene.unity
 --- !u!1 &371003515
 GameObject:
   m_ObjectHideFlags: 0
@@ -162,6 +161,7 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 858714702}
+  - 114: {fileID: 858714703}
   m_Layer: 0
   m_Name: BoardManager
   m_TagString: Untagged
@@ -182,6 +182,17 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
+--- !u!114 &858714703
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 858714701}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b71c87f432e21ce43a04367183a4e052, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1868699270
 GameObject:
   m_ObjectHideFlags: 0
@@ -269,5 +280,3 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-=======
->>>>>>> refs/remotes/origin/master:Assets/MainScene.unity

@@ -1,0 +1,178 @@
+{
+  "Mountain" : {
+    "count" : "2",
+    "description" : "Discover 1 card",
+    "discover_count" : "1",
+    "disaster_count_on_end" : "0",
+    "disaster_count_on_find" : "0",
+    "oxygen_loss" : "0",
+    "food_loss" : "0",
+    "scrap_loss" : "0",
+    "is_teleporter" : "false"
+  },
+  "Desert" : {
+    "count" : "2",
+    "description" : "Lose 1 food if you end your turn here; Discover 1 card",
+    "discover_count" : "1",
+    "disaster_count_on_end" : "0",
+    "disaster_count_on_find" : "0",
+    "oxygen_loss" : "0",
+    "food_loss" : "1",
+    "scrap_loss" : "0",
+    "is_teleporter" : "false"
+  }, 
+  "Canyon" : {
+    "count" : "2",
+    "description" : "Discover 1 card",
+    "discover_count" : "1",
+    "disaster_count_on_end" : "0",
+    "disaster_count_on_find" : "0",
+    "oxygen_loss" : "0",
+    "food_loss" : "0",
+    "scrap_loss" : "0",
+    "is_teleporter" : "false"
+  }, 
+  "Lake" : {
+    "count" : "2",
+    "description" : "Lose 1 O2 if you end your turn here; Discover 1 card",
+    "discover_count" : "1",
+    "disaster_count_on_end" : "0",
+    "disaster_count_on_find" : "0",
+    "oxygen_loss" : "1",
+    "food_loss" : "0",
+    "scrap_loss" : "0",
+    "is_teleporter" : "false"
+  },
+  "Swamp" : {
+    "count" : "2",
+    "description" : "Lose 1 scrap if you end your turn here; Discover 1 card",
+    "discover_count" : "1",
+    "disaster_count_on_end" : "0",
+    "disaster_count_on_find" : "0",
+    "oxygen_loss" : "0",
+    "food_loss" : "0",
+    "scrap_loss" : "1",
+    "is_teleporter" : "false"
+  },
+  "Volcano" : {
+    "count" : "2",
+    "description" : "Discover 1 card",
+    "discover_count" : "1",
+    "disaster_count_on_end" : "0",
+    "disaster_count_on_find" : "0",
+    "oxygen_loss" : "0",
+    "food_loss" : "0",
+    "scrap_loss" : "0",
+    "is_teleporter" : "false"
+  }, 
+  "Cliff" : {
+    "count" : "3",
+    "description" : "Discover 1 card",
+    "discover_count" : "1",
+    "disaster_count_on_end" : "0",
+    "disaster_count_on_find" : "0",
+    "oxygen_loss" : "0",
+    "food_loss" : "0",
+    "scrap_loss" : "0",
+    "is_teleporter" : "false"
+  },
+  "Ancient Battlefield" : {
+    "count" : "2",
+    "description" : "Incur 1 disaster if you end your turn here; Discover 1 card",
+    "discover_count" : "1",
+    "disaster_count_on_end" : "1",
+    "disaster_count_on_find" : "0",
+    "oxygen_loss" : "0",
+    "food_loss" : "0",
+    "scrap_loss" : "0",
+    "is_teleporter" : "false"
+  },
+  "Plateau" : {
+    "count" : "2",
+    "description" : "Discover 1 card",
+    "discover_count" : "1",
+    "disaster_count_on_end" : "0",
+    "disaster_count_on_find" : "0",
+    "oxygen_loss" : "0",
+    "food_loss" : "0",
+    "scrap_loss" : "0",
+    "is_teleporter" : "false"
+  },
+  "Valley" : {
+    "count" : "2",
+    "description" : "Discover 1 card",
+    "discover_count" : "1",
+    "disaster_count_on_end" : "0",
+    "disaster_count_on_find" : "0",
+    "oxygen_loss" : "0",
+    "food_loss" : "0",
+    "scrap_loss" : "0",
+    "is_teleporter" : "false"
+  },
+  "Forest" : {
+    "count" : "2",
+    "description" : "Discover 1 card",
+    "discover_count" : "1",
+    "disaster_count_on_end" : "0",
+    "disaster_count_on_find" : "0",
+    "oxygen_loss" : "0",
+    "food_loss" : "0",
+    "scrap_loss" : "0",
+    "is_teleporter" : "false"
+  },
+  "Teleporter" : {
+    "count" : "4",
+    "description" : "May spend 1 movement to move to another teleporter",
+    "discover_count" : "1",
+    "disaster_count_on_end" : "0",
+    "disaster_count_on_find" : "0",
+    "oxygen_loss" : "0",
+    "food_loss" : "0",
+    "scrap_loss" : "0",
+    "is_teleporter" : "true"
+  },
+  "Waterfall" : {
+    "count" : "2",
+    "description" : "Discover 1 card",
+    "discover_count" : "1",
+    "disaster_count_on_end" : "0",
+    "disaster_count_on_find" : "0",
+    "oxygen_loss" : "0",
+    "food_loss" : "0",
+    "scrap_loss" : "0",
+    "is_teleporter" : "false"
+  },
+  "Inlet" : {
+    "count" : "2",
+    "description" : "Discover 1 card",
+    "discover_count" : "1",
+    "disaster_count_on_end" : "0",
+    "disaster_count_on_find" : "0",
+    "oxygen_loss" : "0",
+    "food_loss" : "0",
+    "scrap_loss" : "0",
+    "is_teleporter" : "false"
+  },
+  "Permanent Storm" : {
+    "count" : "2",
+    "description" : "Lose 1 scrap if you end your turn here; Discover 1 card",
+    "discover_count" : "1",
+    "disaster_count_on_end" : "0",
+    "disaster_count_on_find" : "0",
+    "oxygen_loss" : "0",
+    "food_loss" : "0",
+    "scrap_loss" : "1",
+    "is_teleporter" : "false"
+  },
+  "Hidden Bluffs" : {
+    "count" : "2",
+    "description" : "Discover 1 card; Incur 1 disaster",
+    "discover_count" : "1",
+    "disaster_count_on_end" : "0",
+    "disaster_count_on_find" : "1",
+    "oxygen_loss" : "0",
+    "food_loss" : "0",
+    "scrap_loss" : "0",
+    "is_teleporter" : "false"
+  }
+}
