@@ -38,4 +38,8 @@ public class Player : MonoBehaviour {
     {
         inventory.Add(discovery);
     }
+    void removeItem(DiscoveryCard discovery)
+    {
+        inventory.Remove(discovery);
+    }
 }
